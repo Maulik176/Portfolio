@@ -12,4 +12,3 @@
 # Abstract
 - Results 
 - References
-- Link to the Uploaded Youtube Video
